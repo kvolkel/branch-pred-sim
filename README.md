@@ -1,0 +1,1 @@
+Implementation and analysis/benchmarking of a branch predictor algorithm that is used for the purposes of predicing branch instruction outcomes in the pipeline in order to limit pipeline stalls and keep compute hardware busy.
